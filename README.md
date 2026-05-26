@@ -50,8 +50,4 @@ The project is divided into 5 independent packages, each focusing on a specific 
    ```bash
    git clone https://github.com
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd oop-patterns-training
-   ```
-3. Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, or VS Code) and run the `main` methods inside each task package to see the patterns in action.
+2. Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, or VS Code) and run the `main` methods inside each task package to see the patterns in action.
